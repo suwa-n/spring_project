@@ -897,6 +897,11 @@
 <img src="https://github.com/suwa-n/spring_project/blob/main/show/root-context.png">
 <img src="https://github.com/suwa-n/spring_project/blob/main/show/servlet-context.png">
 
+
+<P CLASS=HStyle0><h3>- URL mapping 다이어그램 </h3></P>
+<img src="https://github.com/suwa-n/spring_project/blob/main/show/url_mappings.png">
+
+
 </BODY>
 
 </HTML>
