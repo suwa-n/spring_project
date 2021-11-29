@@ -893,7 +893,7 @@
 <img src="https://github.com/suwa-n/spring_project/blob/main/show/board_%ED%85%8C%EC%9D%B4%EB%B8%94.png">
 <img src="https://github.com/suwa-n/spring_project/blob/main/show/member2_%ED%85%8C%EC%9D%B4%EB%B8%94.png">
 
-<P CLASS=HStyle0><h3>- ERD </h3></P>
+<P CLASS=HStyle0><h3>- Java Bean Graph 다이어그램 </h3></P>
 <img src="https://github.com/suwa-n/spring_project/blob/main/show/root-context.png">
 <img src="https://github.com/suwa-n/spring_project/blob/main/show/servlet-context.png">
 
