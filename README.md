@@ -901,6 +901,18 @@
 <P CLASS=HStyle0><h3>- URL mapping 다이어그램 </h3></P>
 <img src="https://github.com/suwa-n/spring_project/blob/main/show/url_mappings.png">
 
+<div 
+<P CLASS=HStyle0><h3>- ScreenShot </h3></P>
+<P CLASS=HStyle0><h4>- 게시판 </h4></P>
+<img src="https://github.com/suwa-n/spring_project/blob/main/screenshot/%EA%B2%8C%EC%8B%9C%ED%8C%90.png">
+<P CLASS=HStyle0><h4>- 인자현황 </h4></P>
+<img src="https://github.com/suwa-n/spring_project/blob/main/screenshot/%EC%9D%B8%EC%9E%90%ED%98%84%ED%99%A9.png">
+<P CLASS=HStyle0><h4>- 회원정보 </h4></P>
+<img src="https://github.com/suwa-n/spring_project/blob/main/screenshot/%ED%9A%8C%EC%9B%90%EC%A0%95%EB%B3%B4.png">
+<a href="https://github.com/suwa-n/spring_project/blob/main/screenshot/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85.mp4"><h4>- 회원가입 </h4></a>
+<a href="https://github.com/suwa-n/spring_project/blob/main/screenshot/%EA%B2%8C%EC%8B%9C%EB%AC%BC%20%EB%93%B1%EB%A1%9D.mp4"><h4>- 게시물 등록 </h4></a>
+<a href="https://github.com/suwa-n/spring_project/blob/main/screenshot/%ED%9A%8C%EC%9B%90%EC%A0%95%EB%B3%B4%20%EC%88%98%EC%A0%95.mp4"><h4>- 회원정보수정</h4></a>
+
 
 </BODY>
 
